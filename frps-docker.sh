@@ -14,7 +14,7 @@ docker run --restart=always -h="frps-docker" --name frps-docker -d \
 -e set_dashboard_user=maoshiy \
 -e set_dashboard_pwd=msylll11 \
 -e set_token=AIzaSyDdiq27Pywx4XqRWXyDpIjLFoKkT3e9o0I \
--e set_subdomain_host=maoshiy.mynetgear.com \
+-e set_subdomain_host=v2v.aeae.space \
 -e set_max_pool_count=50 \
 -e set_max_ports_per_client=0 \
 -e set_authentication_timeout=600 \
